@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598666441155",
+    "project_id": "petcone-3c732",
+    "storage_bucket": "petcone-3c732.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598666441155:android:28c886a1b11480cc8b0d76",
+        "android_client_info": {
+          "package_name": "com.petcone.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgDw4-iiP06tPdqpGL9egn8E95URMIRRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
